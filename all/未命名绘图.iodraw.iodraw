@@ -63,16 +63,14 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bjmD9O1faeEeIzs1LT6D-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="690" />
+              <mxPoint x="431" y="690" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-15" value="多断面时空对齐·到达时间外推" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bjmD9O1faeEeIzs1LT6D-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="560" as="sourcePoint" />
-            <mxPoint x="440" y="510" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
