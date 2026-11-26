@@ -44,8 +44,16 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-9" value="组网测试：空旷与隧道两种场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="177.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="bjmD9O1faeEeIzs1LT6D-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bjmD9O1faeEeIzs1LT6D-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-11" value="丢包率是否达标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="333.12" y="450" width="191.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bjmD9O1faeEeIzs1LT6D-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
