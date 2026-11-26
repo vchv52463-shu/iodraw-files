@@ -36,8 +36,8 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-7" value="两点标定是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bjmD9O1faeEeIzs1LT6D-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="150" height="60" as="geometry" />
+        <mxCell id="bjmD9O1faeEeIzs1LT6D-9" value="组网测试：空旷与隧道两种场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
