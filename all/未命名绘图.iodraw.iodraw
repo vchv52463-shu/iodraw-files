@@ -61,6 +61,10 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bjmD9O1faeEeIzs1LT6D-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="600" />
+              <mxPoint x="430" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-13" value="汛期连续观测·数据采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
