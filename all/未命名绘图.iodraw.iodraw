@@ -127,8 +127,8 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-43" value="重新选点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
           <mxGeometry x="270" y="110" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bjmD9O1faeEeIzs1LT6D-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="18" width="50" height="30" as="geometry" />
+        <mxCell id="bjmD9O1faeEeIzs1LT6D-45" value="技术路线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="18" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
