@@ -121,7 +121,7 @@
           <mxGeometry x="300" y="288" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-40" value="&amp;nbsp;重新标定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=270;" vertex="1" parent="1">
-          <mxGeometry x="185" y="228" width="70" height="30" as="geometry" />
+          <mxGeometry x="255" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
