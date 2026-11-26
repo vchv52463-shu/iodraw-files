@@ -29,7 +29,7 @@
           <mxGeometry x="340" y="190" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-7" value="两点标定是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="270" width="200" height="40" as="geometry" />
+          <mxGeometry x="330" y="270" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
