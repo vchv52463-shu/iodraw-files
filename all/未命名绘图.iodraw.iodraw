@@ -12,6 +12,9 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-1" value="现场调研·断面选点·高程测量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="10" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bjmD9O1faeEeIzs1LT6D-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="210" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
