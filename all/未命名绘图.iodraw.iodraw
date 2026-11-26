@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;回放误差与误报率是否达标&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="720" width="172.5" height="40" as="geometry" />
+          <mxGeometry x="363.75" y="720" width="172.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bjmD9O1faeEeIzs1LT6D-22" value="研究报告·样机·结题材料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="800" width="170" height="50" as="geometry" />
