@@ -63,6 +63,12 @@
         <mxCell id="bjmD9O1faeEeIzs1LT6D-15" value="多断面时空对齐·到达时间外推" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bjmD9O1faeEeIzs1LT6D-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429" y="530" as="targetPoint" />
+            <mxPoint x="429" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
